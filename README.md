@@ -26,5 +26,5 @@ Ersteller: marcel533
 
 ### Live-Anwendung
 
-[marcel533.github.io/-Open-Source-Empfehlungen](https://marcel533.github.io/open-source-picks/)
+[marcel533.github.io/open-source-picks](https://marcel533.github.io/open-source-picks/)
 
