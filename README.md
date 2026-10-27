@@ -8,32 +8,23 @@
 
 # Open-Source-Empfehlungen
 
-A curated, dark-mode web directory for discovering high-quality open-source software, developer utilities, and privacy-focused tools. Designed for fast navigation and quick filtering, the interface features a minimalist, high-contrast dark layout with full bilingual support.
+this is a website where you can find opensource and not opensource apps and programs that I use.
 
-**Creator & Maintainer:** marcel533
+Creator: marcel533
 
----
-
-### Live Application
-
-[marcel533.github.io/-Open-Source-Empfehlungen](https://marcel533.github.io/-Open-Source-Empfehlungen/)
-
-<br>
-<hr>
-<br>
+Note: The website’s CSS is made with AI
 
 <div id="deutsch"></div>
 
 # Open-Source-Empfehlungen
 
-Ein strukturiertes Web-Verzeichnis im Dark Mode zum Entdecken von hochwertiger Open-Source-Software, Entwickler-Tools und Datenschutz-Anwendungen. Die Benutzeroberfläche setzt auf schnelles Filtern, ein minimalistisches, kontrastreiches Design und vollständige zweisprachige Unterstützung.
+das ist eine website wo opensource und nicht opensource apps und programme zu finden sind die ich benutze.
 
-**Ersteller & Entwickler:** marcel533
+Ersteller: marcel533
 
----
+  notize: das css der website ist mit ki gemacht
 
 ### Live-Anwendung
 
 [marcel533.github.io/-Open-Source-Empfehlungen](https://marcel533.github.io/-Open-Source-Empfehlungen/)
 
-Note: the css and the read.md is fully created with ai
