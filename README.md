@@ -35,3 +35,5 @@ Ein strukturiertes Web-Verzeichnis im Dark Mode zum Entdecken von hochwertiger O
 ### Live-Anwendung
 
 [marcel533.github.io/-Open-Source-Empfehlungen](https://marcel533.github.io/-Open-Source-Empfehlungen/)
+
+Note: the css and the read.md is fully created with ai
