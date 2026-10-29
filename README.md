@@ -6,7 +6,7 @@
 
 <div id="english"></div>
 
-# Open-Source-Empfehlungen
+# Open-Source-picks
 
 this is a website where you can find opensource and not opensource apps and programs that I use.
 
@@ -16,7 +16,7 @@ Note: The website’s CSS is made with AI
 
 <div id="deutsch"></div>
 
-# Open-Source-Empfehlungen
+# Open-Source-picks
 
 das ist eine website wo opensource und nicht opensource apps und programme zu finden sind die ich benutze.
 
